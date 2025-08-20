@@ -104,5 +104,5 @@ I would say that sometimes it was confusing to choose the right combination, esp
 Speaker 1  (07:16)
 Okay, it was nice talking to you Prachi. 
 
-Speaker 2  (07:20)
+Speaker 2  
 Thank you.
