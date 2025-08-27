@@ -1,111 +1,170 @@
-Rahul Interview 1:
+Interview 1:
+
 Speaker 1  (00:00)
-Hi, this is Rahul from University of Queensland and I am here to ask you some questions regarding your course enrollment process if it is fine, can I record the answers? 
+Hi, I am Rahul from University of Queensland I am here to ask you some questions regarding your course enrollment process. If it is fine, can I call the answers, we are sure, okay, so my first question is, what degree are you doing? 
 
-Speaker 2  (00:12)
-Yes, it is absolutely fine. 
+Speaker 2  (00:15)
+I'm doing my masters in educational studies like with specialisation in leadership at the University of Queensland. 
 
-Speaker 1  (00:15)
-Yeah, so my first question is, what courses are you taking and are you happy with it? 
+Speaker 1  (00:22)
+A great, so what year of your degree are you in? 
 
-Speaker 2  (00:23)
-A Hey, so my name is Prachi and I'm currently taking my masters in education program in leadership major and from Queensland only. So Like, currently, I'm having this course theories of educational leadership and evidence-based practice in education. So am quite happy with these choice is because they directly connect to my interest in leadership policy and improving teaching practices. 
+Speaker 2  (00:27)
+Right now, I am in my first year, second semester of the program. 
 
-Speaker 2  (00:54)
-They also give me both theoretical and practical perspectives that will help me in my future career as an education leader. 
+Speaker 1  (00:31)
+Okay, what process did you go through to pick your courses for the semester? 
 
-Speaker 1  (01:03)
-And are you happy with it? 
+Speaker 2  (00:37)
+Actually, I went through programme structure on the YouTube website like I checked the course list for my program and then compare it with my recommended study plan. I also I looked at the court's profile to see what content and assessment was were included before finalising my choices. 
 
-Speaker 2  (01:05)
-A yes, I'm quite happy with it. 
+Speaker 1  (00:58)
+OK, have you ever done a course that you thought was necessary for your degree? But actually it wasn't 
 
-Speaker 1  (01:09)
-And my second question is like, what are the courses you should take together with your course? 
+Speaker 2  (01:07)
+Not yet, since I'm still in my first year, I did not find some courses that look very interesting and seemed important, but they turned out to be electives rather than core courses. 
 
-Speaker 2  (01:17)
-OK, so in my opinion, I would say that it's better to take a theory based and practical based courses together. Because in that way, concepts can be applied directly, make sure that the timetable matches and it doesn't clash. 
+Speaker 1  (01:22)
+Okay, did you plan out for your courses for your whole degree? Or do you decide on the course semester by semester? 
 
-Speaker 1  (01:38)
-And my third question is, have you ever messed with enrolling your courses? 
+Speaker 2  (01:31)
+I have a broad plan of my entire degree like using the study plan, but I also decide semester by semester depending upon the availability of the courses like here, we have some courses which are only available in SEM 1 and there are some courses which are only available in S I'm 2 so yeah, accordingly. To balance the work load 
 
-Speaker 2  (01:44)
-Yes, I did. When I was in my first year and first semester, so like once I enrolled one of my chores late, because I was confused with the fourth course, what should I take? So yeah, because of that, I missed few first lectures, and it was bit stressful to catch up. 
+Speaker 1  (01:57)
+That's great. Does the assessment on the course profile play a part in your decision to choose the course 
 
-Speaker 1  (02:06)
-Like you have any solution for it. Any opinion. 
+Speaker 2  (02:06)
+Yes, definitely. Since I'm an international student balancing my study and my part-time work, the type and the timing of assignment and the assessments plays a big role, for example, whether the courses established exambased on or like involves group projects affect my decision. 
 
-Speaker 2  (02:11)
-I would say that. University, shutter, give some notifications on your emails. Because As far I know, they don't give such notifications of your last date on this particular days. 
+Speaker 1  (02:28)
+A ki. Do you think there should be more information available about the course? If so, what information like you thought? 
 
-Speaker 2  (02:30)
-It's all mentioned in the Of course profile, but I don't think every time people gonna go and check their course profile to see the last date. That too, in this particular generation, so at least they should do 1 or 2 emails, when the starting in the beginning, and in the end of the Last date of a role mate. Hey, that's all. 
+Speaker 1  (02:41)
+Think 
 
-Speaker 1  (02:57)
-And my next question is What are the things you like and you would like your suggests for improvement. 
+Speaker 2  (02:42)
+Yes, I think it would be helpful to have like Most student feedbacks and reviews about the course experiences that can be helpful for the new students to have a outline for the courses also sometimes knowing how past student felt about the workload teaching style or practical usefulness of a course would really help in making the decision. 
 
-Speaker 2  (03:10)
-I enjoy subjects that are interactive and discussion based and I find purely technical or heavy theories works harder to follow. I'll give you an example in one of my chores like it was a seminar. It's just sometimes lecturers, just do the Slide reading presentation, slide reading, they do nothing else. 
+Speaker 1  (03:11)
+Okay. So like did you talk to any of your past student about? Like while deciding what course you should take on 
 
-Speaker 2  (03:37)
-They do not explain they do not give any example or they just blankly read the slides which I can do at home as well. So what's the point of going to college and listening to what is already there? 
+Speaker 2  (03:21)
+Not exactly any student, but from like one senior and 1 academic adviser at you to like you, you for like guidance, especially like confirming courses. I also got the advice from the senior for this particular program and my specialisation. 
 
-Speaker 1  (03:51)
-So did you took any action or something? 
+Speaker 1  (03:42)
+OK, so if you would get a chance, should I talk to a past student and choose your course, would you 
 
-Speaker 2  (03:55)
-No, because that particular course was something that I already known so I was able to catch up for that so I didn't find it difficult, but maybe if someone is not able to do that particular course and doesn't understand any concept shirt might be difficult for them. 
+Speaker 2  (03:50)
+Yes, absolutely. Past students can share real experiences about how helpful a course was. How demanding the workload is and what strategies to use? 
 
-Speaker 1  (04:16)
-, and now my next question is, are any basic cause or something required for your course, like. Was it mentioned before selecting your courses? 
+Speaker 2  (04:01)
+That kind of advice is often more practical than just reading in the course outli. 
 
-Speaker 2  (04:30)
-I don't think so anything like that mentioned, but yes. Checking the prerequisites, the workload and timetable is important before finalising your course. Because what happens, sometimes you take your interest courses and when the timetable preference comes the timing clashes, even if even you have submitted your card. 
+Speaker 1  (04:07)
+OK, so if you could improve the course selecting process, would you like to like 2 or hand how would you like to do that? 
 
-Speaker 2  (04:55)
-A wish list timings, but it's not like every time you gonna get that. Thya. 
+Speaker 2  (04:16)
+Yes, I would suggest making the core selection system more interactive, like with clearer step-by-step guidance for new students, which includes like sample study plans workload comparison between the courses and some student testimonials would make the process less confusing and more student friendly. 
 
-Speaker 1  (05:04)
-And they say, too, happens at me. Okay, my next question is, do you aware of the assignment and practicals in the courses? 
+Speaker 1  (04:40)
+Like kind of seminar, arts and all 
 
-Speaker 2  (05:16)
-At first, when it was my first semester, I was not fully aware, but later on I learned to check the course profile carefully before and rolling, also like selecting the courses and learning how it works on the blackboard. How The learning researches was there on the blackboard, so it was difficult at first but later on I was able to do that. 
+Speaker 2  (04:43)
+Yes, you can say that. 
 
-Speaker 1  (05:42)
-And . The next question is, have you visited the course profile before selecting courses? 
-
-Speaker 2  (05:52)
-Yes, I started reviewing them to understand the assessment's learning outcomes and workload before making a choice. 
-
-Speaker 1  (06:02)
-Do you know like your friends to visited the course profile? 
-
-Speaker 2  (06:07)
-nCan you repeat the question? 
-
-Speaker 1  (06:12)
-I'm saying if you know like your friends, they have visited the course profile. 
-
-Speaker 2  (06:19)
-Awah, like I don't think so, 
-
-Speaker 1  (06:26)
-Yeah, because it's yeah, mostly people don't go through it. 
-
-Speaker 2  (06:30)
-Exactly. Yeah, I won't agree with that. 
-
-Speaker 1  (06:35)
-The last question is what difficulty you face during your selecting courses? 
-
-Speaker 2  (06:42)
-I would say that sometimes it was confusing to choose the right combination, especially when you have several subjects looked interesting, but it the same thing I talked about clashing of timing. Is the major problem as well as sometimes? One course have a lot of assessments, and maybe 1 another course is not having, but when you choose 2 subjects like 2 courses with a lot of assessment, it creates the workload. 
-
-Speaker 1  (07:16)
-Okay, it was nice talking to you Prachi. 
-
-Speaker 2  
-Thank you.
+Speaker 1  (04:46)
+OK, thank you. It was nice talking to you.
 
 Interview 2:
 
+Speaker 1  (00:00)
+Hi, I'm Rahul from University of Queensland and I'm here to ask you some questions regarding your course enrollment process it is sign. Can I record the answers? 
+
+Speaker 2  (00:11)
+Yes, absolutely. 
+
+Speaker 1  (00:13)
+Okay. So like my first question is, what degree are you doing? 
+
+Speaker 2  (00:17)
+Currently, I am doing my MBA in the human resource recruitment. 
+
+Speaker 1  (00:23)
+Okay, nice so like which year are you in? 
+
+Speaker 2  (00:28)
+Uh, I'm in my first year for semester, though. 
+
+Speaker 1  (00:31)
+Okay, so like what process did you go through to pick your curves for the semester 
+
+Speaker 2  (00:38)
+Actually, as an international student, I had a lot of help from itp to choose with a better course for me in MBA as I have done my bachelors and mood India in the same field. So this would fit better for my course. So yeah, I choose this one. 
+
+Speaker 1  (01:03)
+Great. Have you ever done a course that you thought was necessary for your degree, but actually it was not 
+
+Speaker 2  (01:13)
+Uh, I don't think I've thought about this one Tal naav, but I don't think so. Like there was anything unnecessary, everything was important. I found, every course was important for this, so I didn't found any necessary one Ah, there are some if we go to the electives, otherwise it's all necessary. 
+
+Speaker 2  (01:37)
+My point of view. 
+
+Speaker 1  (01:39)
+So, did you plan out for your courses like for a whole degree or you decided by like semester by semester. 
+
+Speaker 2  (01:50)
+And since I'm still in my first semester, so I decided upon my first semester and second semester, but yeah, after my second semester decide upon what I'm gonna choose in my a second year. 
+
+Speaker 1  (02:05)
+OK, even I to do like, buy semester semester. 
+
+Speaker 2  (02:09)
+Yeah, that's easy. 
+
+Speaker 1  (02:11)
+Does the assessment on the course profile play a part in your decision to choose the course 
+
+Speaker 2  (02:18)
+Absolutely, because if we see a cruel like a coerce profile, a particular course, and we can see the assessment, what kind of assessment we're gonna go through what kind of deadlines we're gonna go through what exactly the professor's gonna teach us and this actually gives us a broad perspective like what exactly gonna happen in this particular course, so yes. 
+
+Speaker 1  (02:48)
+Do you like there should be a more information available about the cause, like if so, like, what information do you want to avoid that? 
+
+Speaker 2  (02:59)
+In my opinion, it would be better that they should include some sort Reviews by the particular professors that gotta teachers so like before starting with the course, we can get to know the professors. Gonna teach like it gives us an idea about their teaching style. If they are a short feedback video on that particular course, by the 
+
+Speaker 1  (03:29)
+I just start summary types. 
+
+Speaker 2  (03:31)
+Yes, exactly. 
+
+Speaker 1  (03:34)
+So I did you talk to a past student or any academic adviser when deciding the course 
+
+Speaker 2  (03:41)
+Yeah, as I told you about it back in my home country, the it p helped me choosing my courses so that was helpful. 
+
+Speaker 1  (03:52)
+So like, if you would get an option to talk any of the past student from the same course, like hmm, would it be helpful? 
+
+Speaker 2  (04:02)
+Absolutely, it would be of great help if I find a senior that would help me, he or she had already gone through. And guide us upon that, what are the assignments? And how should we do that some useful tips that I should work upon? 
+
+Speaker 2  (04:20)
+Yes, that would be great. 
+
+Speaker 1  (04:22)
+And like if you could improve the core selecting process, would you camera do that and how would you do that? 
+
+Speaker 2  (04:33)
+Though I didn't find it difficult and my this process so yeah, I don't think I'm gonna change the process so that was particularly good for me, like I didn't find it difficult for me to do choose the course and the course profile was all in detail. So yet was good for me. 
+
+Speaker 1  (04:54)
+He active a size striking. 
+
+Speaker 2  (04:58)
+Thank you.
+
+Interview 3
