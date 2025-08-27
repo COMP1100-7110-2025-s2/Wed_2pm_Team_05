@@ -1,6 +1,6 @@
 # Value Proposition Canvas
 
-##customer profile##
+## customer profile ##
 
 **the jobs**
 - 
@@ -8,10 +8,10 @@
 **gains**
 - 
 
-**pains of customers**
--
+## pains of customers ##
 
-##value map##
+
+## value map ##
 
 **pain relievers**
 -
