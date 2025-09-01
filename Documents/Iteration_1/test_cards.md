@@ -1,6 +1,6 @@
 # Test Cards
 
-## Hypothesis 1: Dual Degrees Have a Complicated Course Selection Process
+## Hypothesis 1: Dual Degrees Have a Complicated Course Selection Process [learning_cards.md](./learning_cards#learning-card-1-dual-degrees-have-a-complicated-course-selection-process-test_cardsmd)
 
 **HYPOTHESIS**
 We believe that people doing dual degrees have a harder time picking courses than those who aren’t.
@@ -19,7 +19,7 @@ We are right if people doing dual degrees report that they have a difficult time
 2. Have you ever done a course that you thought was necessary for your degree, but wasn’t? If so, what caused this to happen? 
 
 
-## Hypothesis 2: Assessments in the Course Impact its Selection
+## Hypothesis 2: Assessments in the Course Impact its Selection [learning_cards.md](./learning_cards#learning-card-2-assessments-in-the-course-impact-its-selection-test_cardsmd)
 
 **HYPOTHESIS**
 We believe that assessment types impact the selection of the course as they need to plan their course accordingly as many of them works and to maintain it they need to know about the assessment types.
@@ -39,7 +39,7 @@ We are right if students report that they pick certain courses because of the as
 3. If so how? 
 
 
-## Hypothesis 3: Students Consider Feedback from Past Students
+## Hypothesis 3: Students Consider Feedback from Past Students [learning_cards.md](./learning_cards#learning-card-3-students-consider-feedback-from-past-students-test_cardsmd)
 
 **HYPOTHESIS**
 We believe that students care about feedback from past students and having access to it will make it easier.
@@ -58,7 +58,7 @@ We are right if students consistently say that reviews make course selection eas
 2. If you had the option to talk to a past student about choosing courses, would you?
 
 
-## Hypothesis 4: Students are Unhappy with the Course Selection Process
+## Hypothesis 4: Students are Unhappy with the Course Selection Process [learning_cards.md](./learning_cards#learning-card-4-students-are-unhappy-with-the-course-selection-process-test_cardsmd)
 
 **HYPOTHESIS**
 We believe that students want an easier way to determine what courses they need to do.

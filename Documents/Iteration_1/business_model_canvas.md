@@ -20,17 +20,6 @@
 **Revenue Streams**
 - Long-term trust in the university due to the reliable service
 
-**Key Resources**
-- UQ course list and requirements
-
-**Key activities**
-- Make the website
-
-**Key partners**
-- Cloud
-
-**Cost structures**
-- Running the website
 
 **Hypothesis 1**
 People doing dual degrees have the hardest time picking courses.
