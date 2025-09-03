@@ -48,7 +48,7 @@ Therefore, we will introduce a platform similar to Ed Discussion, where students
 ## Learning Card 4: Students are Unhappy with the Course Selection Process [test_cards.md](./test_cards.md#hypothesis-4-students-are-unhappy-with-the-course-selection-process-learning_cardsmd)
 
 **HYPOTHESIS**
-We believed that students want an easier way to determine what courses they need to do.
+We believed that students want an easier way to determine what courses they need to do and suitable for them.
 
 **OBSERVATION**
 We observed that it is a doable but long and tedious process, especially for first year students. It is easy to choose the wrong course and prolong your time at university.
