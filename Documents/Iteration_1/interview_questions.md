@@ -1,6 +1,6 @@
 # Interview Questions for Iteration 1
 
-## First session
+## First session interview questions
 1. When choosing courses, what do you have most trouble with?  
 2. Was it clear what courses were required for your course? 
 3. What factors are most important when you choose courses? (eg timetable, prerequisites) 
@@ -12,7 +12,7 @@
 9. Is there a course you wouldn’t take if it was clear certain classes like studios and applied classes are required for their selected courses?  
 10. Do you visit the course profile on website prior to enrollment?
 
-## Second session
+## Second session interview questions
 1. What degree are you doing?
 2. What year of your degree are you in?
 3. What process did you go through to pick your courses for this semester?
@@ -24,4 +24,3 @@
 9. Did you talk to a past student or academic advisor when deciding what courses to pick?
 10. If you had the option to talk to a past student about choosing courses, would you?
 11. If you could improve the course selection process, would you? How?
-
