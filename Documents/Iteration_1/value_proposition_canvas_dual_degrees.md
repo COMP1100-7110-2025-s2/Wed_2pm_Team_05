@@ -1,4 +1,4 @@
-# Value Proposition Canvas - Students doing Dual Degrees
+# Value Proposition Canvas - UQ Students
 
 ## Customer Profile
 
