@@ -74,5 +74,5 @@ We are right if they appear to be dissatisfied with the current ease of course s
 
 **INTERVIEW QUESTIONS**
 1. If you could improve the course selection process, would you? How?
-2. Do you think there should be more information available about the course? If so, what information?
-3. Have you ever done a course that you thought was necessary for your degree, but wasn’t? If so, what caused this to happen?
+2. Do you think there should be more information available about the course? If so, what kind of information?
+3. Have you ever done a course that you thought was necessary for your degree, but wasn’t? If so, what do you think caused this to happen?
