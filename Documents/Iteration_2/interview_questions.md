@@ -8,3 +8,7 @@
 4. Who do you usually turn to for advice about course selection, and why?
 
 5. Would your confidence in course selection change if the advice came from someone with the same dual-degree background? Why or why not?
+
+6. Do you think tailoring course options to your preferences (like avoiding finals or group work) would help you make course selections? 
+
+7. Tell me about a time when a course you wanted was full What happened and how did it affect you?
