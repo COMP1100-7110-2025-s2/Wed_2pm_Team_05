@@ -1,1 +1,10 @@
 # Interview Questions for Iteration 2
+1. Would you be open to changing your course plan (in an event you don’t like what are studying)? 
+
+2. Would you feel more open to do so if there exists a “what if I change major/minor?” simulator?  If so/not, Why?
+
+3. From a scale of 1 to 10, how hesitant or scared would you be to change your course path even with the guidance of the simulator?
+
+4. Who do you usually turn to for advice about course selection, and why?
+
+5. Would your confidence in course selection change if the advice came from someone with the same dual-degree background? Why or why not?
