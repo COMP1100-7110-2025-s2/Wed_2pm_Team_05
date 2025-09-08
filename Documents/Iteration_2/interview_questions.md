@@ -16,3 +16,7 @@
 8. How do you usually figure out alternatives when enrollment doesn’t go as planned?
 
 9. What would the experience be like if you were offered alternatives right at that moment?
+
+10. Have you ever considered changing your major or minor? If so, what kinds of questions or concerns came up during that process?
+
+11. If you could safely explore different study paths without affecting your plan, would you use it? How do you imagine you’d use it?
