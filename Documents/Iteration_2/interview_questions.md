@@ -12,3 +12,7 @@
 6. Do you think tailoring course options to your preferences (like avoiding finals or group work) would help you make course selections? 
 
 7. Tell me about a time when a course you wanted was full What happened and how did it affect you?
+
+8. How do you usually figure out alternatives when enrollment doesn’t go as planned?
+
+9. What would the experience be like if you were offered alternatives right at that moment?
