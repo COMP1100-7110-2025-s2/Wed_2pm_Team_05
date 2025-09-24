@@ -4,7 +4,7 @@
 
 2. Would you find a custom plan for your entire degree usesful? Would you use it?
 
-3. If you could redesighn UQs public programs and courses page, would you? How?
+3. If you could redesign UQs public programs and courses page, would you? How?
 
 4. What do you find is the most annoying feature of the course profile?
 
@@ -12,13 +12,13 @@
 
 6. Do you use allocate+'s timetable? What don't you like about it? What do you like about it?
 
-7. What UQ website has your favourite UI desighn? What has you rleast favourite desighn?
+7. What UQ website has your favourite UI design? What has you least favourite design?
 
-8. Would ypu find it useful if our website offered alternative coourses to take if the course you where going to take ends up full or for someother reason you can no longer take it
+8. Would you find it useful if our website offered alternative courses to take if the course you where going to take ends up full or for some other reason you can no longer take it?
 
-9. Do you think being able to plan your entire degree out in a visual timline will reduce confusion as comparded to just the current list of courses
+9. Do you think being able to plan your entire degree out in a visual timline will reduce confusion as comparded to just the current list of courses?
 
-10. Have you seen a student talk about your specific degree? Do you think if you did it would make course selection less overwhelming
+10. Have you seen a student talk about your specific degree? Do you think if you did it would make course selection less overwhelming?
 
-11. Do you htink having a space to chat with other student. who are doing the same course or have done the smae course in the past will help?
+11. Do you think having a space to chat with other student. Who are doing the same course or have done the same course in the past will help?
 
