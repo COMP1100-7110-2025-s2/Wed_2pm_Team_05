@@ -1,0 +1,40 @@
+Hannah: What information about courses do you think is the most important?
+Hadley: I would say the prerequisites that you need to take, making sure that you know exactly how many units of each course you have to do and being able to sort of work that out, being able to know how to timetable and knowing exactly how many things you need to get done to actually be able to graduate and finish your degree. Because a lot of people reach the end and realise that they've got something that they missed because they have to try and build the whole thing themselves and you might accidentally do the math wrong and miss two units or something like that and then at the end you'll go, oh shit, I have another course to do.
+
+Hannah: Would you find a custom plan for your entire degree useful and would you use it?
+Hadley: Yes, absolutely. It was one of the hardest things ever. When I first got into my course and I was trying to plan out how I wanted to do it and my major, which is the physics extended major, and the law. The law is laid out already so there's already a plan for that but trying to organise and put together my physics degree was so hard and it took me hours. To add up all the units, make sure I had all the prerequisites, I had all my math courses, everything. And it took me so long. Way too much time. And sometimes it gets jumbled around even still. So definitely having a plan would be so much easier.
+
+Hannah: If you could redesign UQ's public programs and courses page, like the website, would you?
+Hadley: Yes, I found it very difficult to navigate. Not so much for law. Law was very straightforward. But for something like a Bachelor of Science, going onto that page, it's very... To get to all the information, it's very narrow, you have to scroll very far instead of it being laid out in front of you.
+And once you do, you click on one thing, it unloads another thing and you have to click on something else, it unloads another thing and all the information gets very lost and it's not easy to navigate. It depends on the course that you're looking at. It's easy to navigate in terms of law, maybe some other degrees are like that too. But in terms of looking at a Science Bachelor, it's very clunky and it's very hard to get the information. It's all very complicated and it's not in ordinary, easily understandable language sometimes.
+
+Hannah: What do you find is the most annoying feature of the course profile?
+Hadley: As in when you're clicking on your course and you go to the course profile it lays out learning points, objectives, assessment and everything? I would say the only thing I really ever use on the course profile is maybe resources like the reading list and then the assessment portion so that I make sure that I know my assessment stuff. I guess the only pitch I've ever had with the course profile is if the course profile says it lays out assessment things and all the details and it says when the assessment's due and how much it's worth and la la la and it has the details and you're like great and you write all that out in your calendar but little do you know that at one point the professor has randomly said oh I think I'll change the day and you don't know that because the course profile should be your main resource. I wish that I could honestly go in there and rely on it completely alone and not have the professor maybe mention something random. I wish that they would go in and be able to have it be updatable based on what the professor says.
+
+Hannah: Does your degree have a planner?
+Hadley: The Bachelor of Science and Law dual degree has a guide but it's basically just the law planner and then it says insert your science degree here. So you have to do the actual planning of the science degree yourself.
+
+Hannah: Do you use AllocatePlus' timetable? What do you like and not like about it?
+Hadley: In terms of just looking at it, it's good to use as your everyday timetable. In terms of building it, it can be annoying. It can take a while to generate.
+It can be sometimes visually, there's a lot of visual noise especially trying to pick out things. If you're a beginner, obviously now I'm in my second year and I've had to do it a couple of times now but at first it was very confusing and clunky and there's lots of, you click on one thing and it shows all the options and you get sort of confused. You have to actually physically try to remember what you put, flick over, put it in, hope that you don't forget, remember all your options. It takes a long time. It's kind of clunky.
+
+Hannah: Is there a particular website design that UQ has that you like or dislike? Because they have MySINet, the course profiles, Blackboard and the kind of basic UQ website.
+Hadley: Honestly, do you remember the old Blackboard versus this new one?
+
+Hannah: Oh yeah.
+Hadley: I liked the old one better, call me crazy. The new one, it's all just vertical. I like to have a menu bar on the side where I can see everything I need instead of scrolling and finding out that there's more down there that I can't see. If you can see it all, the moment that it pulls up, it's so much easier to remember and have that at the forefront of your mind, all the things you need to click on. Especially for physics, there are so many different parts that I need to click on and find every day and I have to scroll down and see the names of them. But if it's all in that menu, then I can just easily get to it and remember that it's there.
+
+Hannah: Would you find it useful if there was functionality that offered alternative courses? If the course you were going to take ends up being full or just you can take it for some reason?
+Hadley: Yeah, actually I do need to talk to some sort of course coordinator person because I think since I've taken on the physics extended major law combo, I think they've removed that as an option because it's no longer on there and it's confusing. So they've kind of removed where I can look for my prereqs and stuff.
+An alternative sort of having some sort of website where it can say if you do this and it doesn't work out, do this instead. That would probably be good guidance because I know so many people in my cohort in their first year go I like this but I've stopped liking it now, I want to change. What's the next best thing that can still get me to my goal?
+
+Hannah: Do you think being able to plan your entire degree out in a visual timeline is better than just looking at a list of courses?
+Hadley: So much. I think that that would give me so much peace of mind. I would kill to have that just appear in front of me right now.
+
+Hannah: Have you seen a student talk about your specific degree and do you think if you did it would make course selection less overwhelming?
+Hadley: I know maybe one or two other people who do science and law. I don't know anyone who does physics and law but some people that I've spoken to who do science and law relate to the law part being very straightforward and easy and the science part being difficult to build up yourself and more ambiguous and takes a lot of work to plan out by yourself instead of with the guidance of a planner or something like that.
+
+Hannah: Do you think having a space to chat with other students who are doing the same course or have done the same course will help?
+Hadley: Yes, there have been so many times where I've had lots of questions or confusions and I've emailed UQ's relevant people that you're supposed to email or I've called them and it takes either so long to get back or they're busy and if there was some student who did the same thing as me but was a few steps ahead and they would be able to just cut my time short and just say here's what you need to do instead of faffing around for months which is what I used to do trying to work out what the right thing to do was because I didn't know anyone else doing it. So that would be good to have a resource like that.
+
+Hannah: Thank you.
