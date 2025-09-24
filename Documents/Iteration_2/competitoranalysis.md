@@ -3,7 +3,7 @@
 ## Unique Value Proposition (UVP)
 Our project, **UQ Courses**, is designed to solve the problem of fragmented and unintuitive course planning for UQ students. Right now, students have to use multiple different websites and platforms if they want to find course information, check program rules, plan their degree, and hear about other students’ experiences. This process is time-consuming and frustrating, and often students end up turning to Reddit or friends because the official systems are too confusing.  
 
-We believe our unique value proposition is to provide a centralise platform for UQ students that integrates official course/program data with interactive degree planning tools and peer reviews. Unlike current solutions, our platform would be both easy to use, accurate and student-friendly.  
+We believe our unique value proposition is to provide a centralise platform for UQ students that integrates official course/program data with interactive degree planning tools and peer reviews. Unlike current solutions, our platform would be both easy to use, accurate and student-friendly.
 
 ---
 
