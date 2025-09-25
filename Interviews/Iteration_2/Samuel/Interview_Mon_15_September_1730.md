@@ -1,36 +1,77 @@
 Samuel: Do I have your consent to record this interview? It will be used for transcription analysis after this. 
+
 Enoch: Yes. 
+
 Samuel: Thank you. First, can I get your name and what degree are you currently studying?
+
 Enoch: My full name or just my name? 
+
 Samuel: Your name. 
+
 Enoch: My name is Enoch, and I'm currently studying a master's in environmental health sciences.
+
 Samuel: Okay, my first question is Who do you turn to for advice about course selection and why? 
+
 Enoch: In terms of course selection, I probably turn to my peers, my friends, just to get their insight into if the course selection is good or not. Besides that, it would probably be my parents. Asking them for advice on how they thought about me choosing this course over that course. 
+
 Samuel: This is the first time I see they (choose) parents. Okay. Would your confidence in course selection change if the advice came from someone with the same dual degree background? 
+
 Enoch: Would my confidence change? Probably because the assumption is whoever is doing the same dual degree as me has a better understanding of the degree, so knows the pros and cons of the course selection. So for example, right now, I'm being mentored by someone who's doing the same degree as me. But they are in their final year, and I've actually asked them a lot of advice in regards to course selection because I know for a fact that they've already, they're further along in the degree than I am, so they have more experience with how to maximize the benefits of this degree and what to avoid. So yes, I would say my confidence level asking advice from her compared to maybe someone in general would be a much higher. 
+
 Samuel: Okay. If so, how confident will you be from a scale of 1 to 10? 
+
 Enoch: Asking someone from dual degree? Yeah, I would be probably a good 8. 
+
 Samuel: Do you think it will be helpful to your studies? Sorry. (After you receive the advice from your mentor. I think you already answered the question.)
+
 Enoch: Yes, it is helpful because they normally give me advice on I guess what traps to avoid with the degree and also how to work smarter, not harder in terms of revising, for example, for this degree of public health.
+
 Samuel: Next question is, do you think tailoring course options to your preferences like avoiding finals or group work, will help you make course selections? T
+
 Enoch: To a certain extent, yes. I think it would help because it will be tailoring around playing to my strengths. So for example, I think I am better at doing coursework compared to preparing final exams. That being said though, I think whilst it would play a part, I still think that the content of the course for me personally still outweighs, you know, preference in terms of whether that course has finals or only coursework. 
+
 Samuel: If so, how much easier do you think it would be from a scale of 1 to 10? 
+
 Enoch: I think if 10 is the highest, I think maybe like a 3. Like it's still helpful, but at the end of the day, my priorities for choosing courses would still be content over maybe ease of assignments, so not as helpful.
+
 Samuel: Tell me about a time when your course you wanted was full. How did it affect you?
+
 Enoch: That's not really happened to me. 
+
 Samuel: Okay, that's fine. That's actually good. How do you usually figure out what the content is if the remote doesn't go as planned? 
+
 Enoch: In the past, because it has happened before, certain courses I needed to take to graduate no longer existed because my degree had changed. And so I needed to find new core courses that meet the point requirement to allow me to graduate. And so the alternative normally I would do immediately is to go ask the course coordinator or whoever is the person, because there is normally a specific role in UQ where someone is in charge of the degree and a study plan. And so normally you can go to them for advice and ask them, “Hey, how should I actually what courses should I take in order to complete my studies?” And that's exactly what I did in my undergrad. And they gave me good advice on terms of which courses I could take.
-Samuel: If you had access to automatic alternatives, when you come to such events, would you use it? Sorry, which question? If you had access to automatic alternatives, when you come to such events, would you use it? I would hesitate on using them just because I personally would want to do more research into what these alternative options are first before automatically switching into them. And you know, for example with summer semesters, depends on what course it puts me into. Because for example, if it's a course where it's actually not very easy to do during the summer semester, then I would probably rather just take longer to finish my degree than try and rush through it.
+
+Samuel: If you had access to automatic alternatives, when you come to such events, would you use it? 
+
+Enoch: Sorry, which question?
+
+Samuel: If you had access to automatic alternatives, when you come to such events, would you use it? 
+
+Enoch: I would hesitate on using them just because I personally would want to do more research into what these alternative options are first before automatically switching into them. And you know, for example with summer semesters, depends on what course it puts me into. Because for example, if it's a course where it's actually not very easy to do during the summer semester, then I would probably rather just take longer to finish my degree than try and rush through it.
+
 Samuel: So, on a scale from 1 to 10, how helpful do you think it will be in keeping students like you on track?
+
 Enoch: Um, on a scale of 1 to 10, probably I think a 5 or a 6. It will definitely help streamline the process for a lot of students in terms of helping them continue with the degree. I think especially helpful actually it would be for master's students because a lot of master's students, especially those who are more mature coming back to study after spending some time in the workforce, probably don't have as good of a familiarity with the university system anymore. So this will actually help streamline and take out the stress component for them in terms of taking courses.
+
 Samuel: Ok, My next question is, have you ever considered changing your major or minor? If so, what kind of questions or concerns came up during that process? 
+
 Enoch: I had, it was mainly just, for me it was thinking more long term in terms of future employment options. Because for example, for my undergraduate degree, I did environmental management and at the time that I enrolled, there were still two major streams you can take. Either you do sustainable development or wildlife and systems. One is more to do with resource management and sustainability. One is to do with conservation and animal welfare. And I did consider switching from sustainable development to animal welfare because there might be more jobs in terms of conservation. But in the end I decided to stick with sustainable development because I was more comfortable with the content in there. 
+
 Samuel: Would you be open to changing your course plan in the event that you don't like what you're studying? 
+
 Enoch: I think it depends. I am open but it would have to come after me doing a lot more research into all the available options and the impacts it would have on me completing my degree before I even consider making any changes.
+
 Samuel: If you could safely explore other different study paths without affecting your plan, would you use it? 
+
 Enoch: Yes, I probably would because there might be more specific topics or specific course content within my degree that the core courses don't touch on. But I would personally like to know or I personally feel it would be beneficial to me in the future in the workforce that I would like to go for. And there's an option to explore these options where it will not negatively impact my progress with studying my current master's degree then I'll definitely take it.
+
 Samuel: How do you imagine you use it? 
+
 Enoch: Probably just to explore more options so I can have a more holistic choice of different course options than being stuck with the course plan. The course plan is great but I think it does limit your ability to explore other options for perhaps topics like some topics that you might have more interest in or you feel is actually more helpful for you in the future when you're in the workforce. And so for me the way I see it happening is perhaps there will be these smaller course modules or classes where I can just clearly explore and see what the content is like and then from there decide oh maybe I do want to pursue this as an elective.
+
 Samuel: From a scale of 1 to 10, how hesitant or scared would you be to change your course path even with the guidance of a simulator?
+
 Enoch: Probably an 8 or 9 just because I've already done an undergraduate degree especially where I've had to change courses because some of them no longer existed under that bachelor's degree. It was quite scary to change over just because even the person giving me advice there was no guarantee that the university would have accepted that change. So there's a lot of uncertainty in play and where there's uncertainty I would be more hesitant in going for those options
+
 Samuel: Okay, Thank you!!
