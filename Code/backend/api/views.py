@@ -1,5 +1,10 @@
-# backend_api/views.py
-from django.http import JsonResponse
+from rest_framework.views import APIView
+from rest_framework.response import Response
+from .models import Course
+from .serializers import CourseSerializer
 
-def ping(request):
-    return JsonResponse({"ok": True, "msg": "pong"})
+class CourseList(APIView):
+    def get(self, request):
+        queryset = Course.objects.all().order_by("code")
+        data = CourseSerializer(queryset, many=True).data
+        return Response(data)
