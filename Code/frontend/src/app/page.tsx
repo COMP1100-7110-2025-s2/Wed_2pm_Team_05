@@ -1,17 +1,21 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { GraduationCap, BookOpen, Loader2 } from "lucide-react";
+import Link from "next/link";
+import { useRouter } from "next/navigation";
+import { GraduationCap, BookOpen, Loader2, User, LogOut } from "lucide-react";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { Button } from "@/components/ui/button";
 import SearchBar from "@/components/SearchBar";
 import CourseFilters from "@/components/CourseFilters";
 import CourseCard from "@/components/CourseCard";
 import DegreePlanner from "@/components/DegreePlanner";
-import { fetchCourses, getSemesters, getArea, getAssessment } from "@/lib/api";
+import { fetchCourses, getSemesters, getArea, getAssessment, fetchPlannedCourses, addOrUpdatePlannedCourse, updatePlannedCourseSemester, deletePlannedCourse, fetchSemesters, addSemester, deleteSemester } from "@/lib/api";
 import { Course, PlannedCourse } from "@/types/course";
 import { useToast } from "@/hooks/use-toast";
 
 const Index = () => {
+  const router = useRouter();
   const [searchQuery, setSearchQuery] = useState("");
   const [assessmentFilter, setAssessmentFilter] = useState("all");
   const [levelFilter, setLevelFilter] = useState("all");
@@ -25,21 +29,78 @@ const Index = () => {
   const [error, setError] = useState<string | null>(null);
   const { toast } = useToast();
 
-  const [availableSemesters, setAvailableSemesters] = useState<string[]>([
-    "Semester 1",
-    "Semester 2",
-    "Semester 3",
-    "Semester 4",
-  ]);
+  const handleUnauthorized = () => {
+    localStorage.removeItem("accessToken");
+    localStorage.removeItem("refreshToken");
+    toast({
+      title: "Session expired",
+      description: "Please log in again to continue.",
+      variant: "destructive",
+    });
+    router.push("/auth/login");
+  };
 
-  // Fetch courses on component mount
+  const handleLogout = () => {
+    localStorage.removeItem("accessToken");
+    localStorage.removeItem("refreshToken");
+    document.cookie = "accessToken=; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT";
+    globalThis.location.href = "/auth/login";
+    toast({
+      title: "Logged out",
+      description: "You have been successfully logged out.",
+    });
+  };
+
+  const [availableSemesters, setAvailableSemesters] = useState<string[]>([]);
+
+  // Fetch courses and user planned courses on mount
   useEffect(() => {
-    const loadCourses = async () => {
+    const load = async () => {
       try {
         setLoading(true);
         setError(null);
         const fetchedCourses = await fetchCourses();
         setCourses(fetchedCourses);
+        const token = typeof globalThis !== "undefined" && (globalThis as any).localStorage ? localStorage.getItem("accessToken") : null;
+        if (token) {
+          try {
+            // Fetch semesters (backend will auto-create 1-4 if none exist)
+            const semestersData = await fetchSemesters();
+            const semesterStrings = semestersData.map(s => `Semester ${s.semester_number}`);
+            setAvailableSemesters(semesterStrings);
+            
+            // Fetch planned courses
+            const pcs = await fetchPlannedCourses();
+            const transformed = await Promise.all(
+              pcs.map(async (pc) => {
+                // Find the full course data from the courses list
+                const course = fetchedCourses.find(c => c.id === pc.course_id);
+                if (course) {
+                  return { ...course, plannedSemester: `Semester ${pc.semester}` } as PlannedCourse;
+                }
+                // If not found in current list, create minimal course object
+                return {
+                  id: pc.course_id,
+                  code: pc.course_code,
+                  name: pc.course_name,
+                  plannedSemester: `Semester ${pc.semester}`,
+                } as PlannedCourse;
+              })
+            );
+            setPlannedCourses(transformed.filter(Boolean));
+          } catch (err: any) {
+            console.error("Error loading planner data:", err);
+            if (err.message === "unauthorized") {
+              handleUnauthorized();
+            } else {
+              // Show default semesters if error
+              setAvailableSemesters(["Semester 1", "Semester 2", "Semester 3", "Semester 4"]);
+            }
+          }
+        } else {
+          // Not logged in, show default semesters
+          setAvailableSemesters(["Semester 1", "Semester 2", "Semester 3", "Semester 4"]);
+        }
       } catch (err) {
         setError("Failed to load courses. Please try again later.");
         console.error("Error fetching courses:", err);
@@ -47,8 +108,7 @@ const Index = () => {
         setLoading(false);
       }
     };
-
-    loadCourses();
+    load();
   }, []);
 
   const filteredCourses = courses.filter((course) => {
@@ -85,47 +145,94 @@ const Index = () => {
     setActiveTab("planner");
   };
 
-  const handleConfirmAddCourse = (semester: string) => {
+  const handleConfirmAddCourse = async (semester: string) => {
     if (!pendingCourse) return;
-
-    const plannedCourse: PlannedCourse = {
-      ...pendingCourse,
-      plannedSemester: semester,
-    };
-
-    setPlannedCourses([...plannedCourses, plannedCourse]);
-    setPendingCourse(null);
-    
-    toast({
-      title: "Course added!",
-      description: `${pendingCourse.code} - ${pendingCourse.name} has been added to ${semester}.`,
-    });
+    try {
+      const match = /\d+/.exec(semester);
+      const semNum = Number(match ? match[0] : 1);
+      await addOrUpdatePlannedCourse(
+        pendingCourse.id, 
+        pendingCourse.code, 
+        pendingCourse.name, 
+        semNum
+      );
+      const plannedCourse: PlannedCourse = { ...pendingCourse, plannedSemester: semester };
+      setPlannedCourses([...plannedCourses, plannedCourse]);
+      setPendingCourse(null);
+      toast({ title: "Course added!", description: `${pendingCourse.code} - ${pendingCourse.name} has been added to ${semester}.` });
+    } catch (err: any) {
+      if (err.message === "unauthorized") {
+        handleUnauthorized();
+      } else {
+        toast({ title: "Failed to add course", description: "Please try again.", variant: "destructive" });
+      }
+    }
   };
 
   const handleCancelAddCourse = () => {
     setPendingCourse(null);
   };
 
-  const handleAddSemester = () => {
-    const nextSemesterNumber = availableSemesters.length + 1;
-    setAvailableSemesters([...availableSemesters, `Semester ${nextSemesterNumber}`]);
+  const handleAddSemester = async () => {
+    try {
+      const newSemester = await addSemester();
+      setAvailableSemesters([...availableSemesters, `Semester ${newSemester.semester_number}`]);
+      toast({ title: "Semester added", description: `Semester ${newSemester.semester_number} has been added.` });
+    } catch (err: any) {
+      if (err.message === "unauthorized") {
+        handleUnauthorized();
+      } else {
+        toast({ 
+          title: "Failed to add semester", 
+          description: err.message || "An error occurred.", 
+          variant: "destructive" 
+        });
+      }
+    }
   };
 
-  const handleRemoveCourse = (courseId: number) => {
-    setPlannedCourses(plannedCourses.filter((c) => c.id !== courseId));
-    
-    toast({
-      title: "Course removed",
-      description: "The course has been removed from your planner.",
-    });
+  const handleDeleteSemester = async () => {
+    try {
+      await deleteSemester();
+      // Remove the last semester from the list
+      setAvailableSemesters(availableSemesters.slice(0, -1));
+      toast({ title: "Semester deleted", description: "The semester has been removed." });
+    } catch (err: any) {
+      if (err.message === "unauthorized") {
+        handleUnauthorized();
+      } else {
+        toast({ 
+          title: "Cannot delete semester", 
+          description: err.message || "Remove all courses from this semester first.", 
+          variant: "destructive" 
+        });
+      }
+    }
   };
 
-  const handleUpdateSemester = (courseId: number, semester: string) => {
-    setPlannedCourses(
-      plannedCourses.map((c) =>
-        c.id === courseId ? { ...c, plannedSemester: semester } : c
-      )
-    );
+  const handleRemoveCourse = async (courseId: number) => {
+    try { 
+      await deletePlannedCourse(courseId); 
+      setPlannedCourses(plannedCourses.filter((c) => c.id !== courseId));
+      toast({ title: "Course removed", description: "The course has been removed from your planner." });
+    } catch (err: any) {
+      if (err.message === "unauthorized") {
+        handleUnauthorized();
+      }
+    }
+  };
+
+  const handleUpdateSemester = async (courseId: number, semester: string) => {
+    const match = /\d+/.exec(semester);
+    const semNum = Number(match ? match[0] : 1);
+    try { 
+      await updatePlannedCourseSemester(courseId, semNum);
+      setPlannedCourses(plannedCourses.map((c) => c.id === courseId ? { ...c, plannedSemester: semester } : c));
+    } catch (err: any) {
+      if (err.message === "unauthorized") {
+        handleUnauthorized();
+      }
+    }
   };
 
   const handleClearFilters = () => {
@@ -140,9 +247,23 @@ const Index = () => {
       {/* Hero Header */}
       <header className="bg-gradient-to-r from-primary to-accent text-primary-foreground py-12 px-4">
         <div className="max-w-7xl mx-auto">
-          <div className="flex items-center gap-4 mb-4">
-            <GraduationCap className="h-12 w-12" />
-            <h1 className="text-4xl md:text-5xl font-bold">UQ Courses</h1>
+          <div className="flex items-center justify-between mb-4">
+            <div className="flex items-center gap-4">
+              <GraduationCap className="h-12 w-12" />
+              <h1 className="text-4xl md:text-5xl font-bold">UQ Courses</h1>
+            </div>
+            <div className="flex items-center gap-2">
+              <Link href="/profile">
+                <Button variant="secondary" size="sm">
+                  <User className="h-4 w-4 mr-2" />
+                  Profile
+                </Button>
+              </Link>
+              <Button variant="secondary" size="sm" onClick={handleLogout}>
+                <LogOut className="h-4 w-4 mr-2" />
+                Logout
+              </Button>
+            </div>
           </div>
           <p className="text-lg text-primary-foreground/90 max-w-2xl">
             Plan your academic journey with ease. Search, filter, and organize your courses by semester.
@@ -202,7 +323,7 @@ const Index = () => {
                 <div className="text-center py-12">
                   <p className="text-lg text-destructive mb-4">{error}</p>
                   <button 
-                    onClick={() => window.location.reload()} 
+                    onClick={() => globalThis.location.reload()} 
                     className="px-4 py-2 bg-primary text-primary-foreground rounded-md hover:bg-primary/90"
                   >
                     Try Again
@@ -245,6 +366,7 @@ const Index = () => {
               onConfirmAdd={handleConfirmAddCourse}
               onCancelAdd={handleCancelAddCourse}
               onAddSemester={handleAddSemester}
+              onDeleteSemester={handleDeleteSemester}
             />
           </TabsContent>
         </Tabs>
