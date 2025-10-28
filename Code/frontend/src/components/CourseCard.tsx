@@ -89,4 +89,5 @@ const CourseCard = ({ course, onAdd, isAdded }: CourseCardProps) => {
   );
 };
 
+
 export default CourseCard;
