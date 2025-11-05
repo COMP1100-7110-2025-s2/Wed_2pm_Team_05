@@ -266,7 +266,7 @@ const Index = () => {
             </div>
           </div>
           <p className="text-lg text-primary-foreground/90 max-w-2xl">
-            Plan your academic journey with ease. Search, filter, and organize your courses by semester.
+            Plan your academic journey with ease
           </p>
         </div>
       </header>
