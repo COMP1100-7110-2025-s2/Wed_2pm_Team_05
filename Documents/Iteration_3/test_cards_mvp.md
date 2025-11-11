@@ -1,6 +1,6 @@
 # Test Cards For MVP
 
-## Hypothesis 1: Students will feel more personally connected and supported if they are offered backup mentor matching based on shared interests.
+## Hypothesis 1: Students will feel more personally connected and supported if they are offered mentor matching based on shared interests.
 
 **HYPOTHESIS** 
 We believe that offering mentor-matching based on shared interests (not just degree combination) will make students feel more personally connected and supported.
@@ -38,10 +38,10 @@ We are right if most students report that they would think it will be more relia
 2.	If you could see reviews or feedback from other students directly on the planner, what type of information would you want included?
 3.	On a scale from 1–10, how much easier would you feel if you have student reviews added to your course planner?
 
-## Hypothesis 3: Students will have a better sense of control over their academic timeline if they have access to the option of adding alternatives.
+## Hypothesis 3: Students will have a better sense of control over their academic journey if they have access to the option of adding alternatives.
 
 **HYPOTHESIS**
-We believe that integrating “add alternative” planning options in the degree planner will improve students’ sense of control over their academic timeline.
+We believe that integrating “add alternative” planning options in the course planner will improve students’ sense of control over their academic timeline.
 
 **TEST**
 To verify that, we will conduct interviews with students and ask them whether integrating “add alternative” planning options will give them a better sense of control.

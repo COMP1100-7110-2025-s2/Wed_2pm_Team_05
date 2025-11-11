@@ -1,6 +1,6 @@
 # Learning Cards for MVP
 
-## Learning Card 1: Students will feel more personally connected and supported if they are offered backup mentor matching based on shared interests.
+## Learning Card 1: Students will feel more personally connected and supported if they are offered mentor matching based on shared interests.
 
 ### **HYPOTHESIS**
 We believe that offering mentor-matching based on shared interests (not just degree combination) will make students feel more personally connected and supported.
@@ -30,10 +30,10 @@ From that we learnt that most students would rely more on student reviews if com
 Therefore, we will place importance in incorporating student reviews in our course selection website instead of just a system-generated recommendation.
 
 
-## Learning Card 3: Students will have a better sense of control over their academic timeline if they have access to the option of adding alternatives.
+## Learning Card 3: Students will have a better sense of control over their academic journey if they have access to the option of adding alternatives.
 
 ### **HYPOTHESIS**
-We believe that integrating “add alternative” planning options in the degree planner will improve students’ sense of control over their academic timeline.
+We believe that integrating “add alternative” planning options in the course planner will improve students’ sense of control over their academic timeline.
 
 ### **OBSERVATION**
 We observed that most students are very open to “add alternative” planning options, and they would take the opportunity to explore other courses they are interested in. Having access to those options will also help them have independent initiative and control. However, some students would need to double check with their advisor before making such a big change.
