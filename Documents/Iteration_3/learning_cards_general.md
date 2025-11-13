@@ -1,4 +1,4 @@
-# Learning Cards for MVP
+# Learning Cards
 
 ## Learning Card 1: Students will feel more personally connected and supported if they are offered mentor matching based on shared interests.
 
