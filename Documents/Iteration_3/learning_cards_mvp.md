@@ -1,61 +1,60 @@
 # Learning Cards for MVP
 
-## Learning Card 1: Students will feel more personally connected and supported if they are offered mentor matching based on shared interests.
+## Learning Card 1:  Students will have be more confident and on track when the course planner provides backup options for their degrees.
 
 ### **HYPOTHESIS**
-We believe that offering mentor-matching based on shared interests (not just degree combination) will make students feel more personally connected and supported.
+WWe believe that with the feature of giving students access to backup options (like an alternative course), they will be able to be more on track and confident.
 
 ### **OBSERVATION**
-We observed that some students will be open to mentor matching, especially if they share the same interests and degrees. However, most students have shown that they would prefer to trust their own personal set of friends who they have compatible communication with, to find a mentor from compared to from a product.
+We observed that most students will find a backup tions very useful besides save them a lot of stress and uncertainty, it would also help them gave more of a sense of control and freedom to pursue other optiuons they are interested. However, there are some students who priortize graduation might be hesistant to go through with it.
 
 ### **CONCLUSION**
-From that we learnt although students will gain a lot of benefits if they have a mentor based on shared interests, most of them feel more comfortable and confident trusting their own personal connection of friends instead of using our product if they want to find a mentor.
+From that we learnt that most students will gain a lot of help if they have access to further automatic alternatives and other back options from my product.
 
 ### **ACTION**
-Therefore, we will NOT input a feature where we offer mentor-matching in our course planner. Instead, we will focus on incorporating other features.
+Therefore, we will input a feature where students our website wcan find custom-planned altenrative options alternatives for their degrees especially for those going through an unavailable one.
 
 
-## Learning Card 2: Incorporating peer ratings or student reviews side by side would be much reliable to students compared to system-generated recommendations.
+## Learning Card 2: Displaying a visual timeline of th students' current and past progress on our course planner would be much more clearer for them. 
 
 ### **HYPOTHESIS**
-We believe that incorporating peer ratings or student reviews for electives will increase trust in course suggestions compared to system-generated recommendations alone.
+We believe that a visual timeline displaying students' progression on their degrees will be much more clearer to them, especially for dual degree students.
 
 ### **OBSERVATION**
-We observed that most students would much prefer the student reviews compared to system-generated recommendations, as they are much more honest and reflect real experiences. They also comment they would want to see student reviews reflecting the assessment grading, workload and important tutorials to go to. However, there are students that will still use system recommendations just for understanding the official structure.
+Like before, we observed that most students will find it a lot easier with a visual timeline, showing the current progress and pending credits of their stiud, especially those who are visual learners. 
 
 ### **CONCLUSION**
-From that we learnt that most students would rely more on student reviews if compared side to side with system recommendations, and it would help them a lot if their real experiences reflected how much work they have to work on the course.
+From that we learnt that most students are visual learners, and the visual timeline will help students study witha clearer minc as it would give them an easier and peaceful way to plan their weekly journey.
 
 ### **ACTION**
-Therefore, we will place importance in incorporating student reviews in our course selection website instead of just a system-generated recommendation.
+Therefore, we will place importance in including a visual timetable in our course selection website instead of just a simple course list.
 
 
-## Learning Card 3: Students will have a better sense of control over their academic journey if they have access to the option of adding alternatives.
+## Learning Card 3: Case studies from past students will help dual degrees students feel less overwhelmed.
 
 ### **HYPOTHESIS**
-We believe that integrating “add alternative” planning options in the course planner will improve students’ sense of control over their academic timeline.
+We believe that short case studies from past dual-degree students (e.g., “How I managed my workload” or “Why I chose summer courses ”) will help new students feel less overwhelmed.
 
 ### **OBSERVATION**
-We observed that most students are very open to “add alternative” planning options, and they would take the opportunity to explore other courses they are interested in. Having access to those options will also help them have independent initiative and control. However, some students would need to double check with their advisor before making such a big change.
+We observed that most students don’t have much or any experience meeting someone who has given talks about their degree and jhaving access to case studies would help them be able to find more peace and certainty while studying. However, it has come to our attention that many dual degree students thinks that listening to how other people go through their course won’t change the way she will go through about it, so that might reflect what many students will think. 
 
 ### **CONCLUSION**
-From that we learnt most students would be much more open to the planning option of adding alternatives to the degree they are studying, especially those who are looking for more freedom and control. This is as long as it doesn’t affect their studies and graduation.
+From that we learnt although case studies would be able to bring some advice to the student, its overall impact in helping students becoming less overwhelmed by the workload of the course is indefinite.  
 
 ### **ACTION**
-Therefore, we will try to introduce a new feature where students can have access to the planning option of adding alternatives to their course planner. 
+Therefore, although it is an interesting feature to add, we would place less priority on this given it might be a less practical feature, alongside the time and effort to make it.
 
 
-## Learning Card 4: Students will be able to make more informed and confident decisions without fear if they have a visual showing their progress comparisons.
+## Learning Card 4: A discussion platform shared between current and past students would help current students make less mistakes while planning.
 
 ### **HYPOTHESIS**
-We believe that showing visual progress comparisons (current path vs new path) will help students make more informed and confident decisions.
+We believe that providing a space platform for students to ask questions to past or current students in our product (like a moderated forum or chat) will help solve errors while planning.
 
 ### **OBSERVATION**
-We observed that all students have input it would indeed be helpful if they have a visual showing their progress comparisons as it would help make a clearer way to see how much they gained or lost. It would also help them to see the changes in impact throughout their progress. Some have also mentioned making it interactive would also improve its quality. 
+We observed all students have input it would indeed be helpful if they have a space to discuss their challenges with past students who could give them practical advice and tips.
 
 ### **CONCLUSION**
-From that we learnt that students would be able to make informed and confident decisions if they have a product where they have a visual showing their progress comparisons, thus giving them a clearer understanding of what is and what is not already done.
+From that we learnt that students would appreciate it if they have a website where they could discuss and ask for advice from seniors or past students studying the same degree, thus giving them a clearer understanding of how to go about their degree.
 
 ### **ACTION**
-Therefore, we will go forward with the visual feature of a progress timeline of comparisons, where students can compare their current and past progress.
-
+Therefore, we will introduce go forward with the discussion page or chat feature, where students can ask questions about courses and past students can give their own feedback.
